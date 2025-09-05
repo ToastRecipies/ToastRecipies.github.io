@@ -1672,3 +1672,8 @@
                     <ol class="list-decimal list-inside text-gray-600">
                         <li>Heat oil in a large pot or Dutch oven over medium-high heat. Brown the beef on all sides.</li>
                         <li>Add onion and cook until softened. Add garlic and cook for
+
+
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6570704359501970"
+     crossorigin="anonymous"></script>
